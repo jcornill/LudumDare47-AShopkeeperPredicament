@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ede23594ef07f824697f38e89b95f42c, type: 3}
+  m_Name: KnowledgeGoldScenario
+  m_EditorClassIdentifier: 
+  ID: KnowledgeGoldScenario
+  dialogLines:
+  - ID: KnowledgeGoldScenario-0
+    foldOut: 1
+    EnglishText: ' I really need to stock up on potions.'
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 1
+  - ID: KnowledgeGoldScenario-1
+    foldOut: 1
+    EnglishText: i can wait
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 2
+  - ID: KnowledgeGoldScenario-2
+    foldOut: 1
+    EnglishText: Ah..I just realized that I have no Gold.
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 1
+  - ID: KnowledgeGoldScenario-3
+    foldOut: 1
+    EnglishText: derp
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 2
+  - ID: KnowledgeGoldScenario-4
+    foldOut: 1
+    EnglishText: Yeah..can you lend me any?
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 1
+  - ID: KnowledgeGoldScenario-5
+    foldOut: 1
+    EnglishText: i have 5g
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 2
+  - ID: KnowledgeGoldScenario-6
+    foldOut: 1
+    EnglishText: ... let's just farm on a lower level region.
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 1
+  - ID: KnowledgeGoldScenario-7
+    foldOut: 1
+    EnglishText: (Gold seems very important to those people.)
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 0
+  ConditionID: 3
+  dialogRarity: 1
+  numberOfCharacters: 2
+  scenarioMusic: {fileID: 11400000, guid: 1417b6a4801d31a418229eda70b506a3, type: 2}
+  answer: {fileID: 0}

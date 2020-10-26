@@ -1,0 +1,186 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ede23594ef07f824697f38e89b95f42c, type: 3}
+  m_Name: TheFinalTest
+  m_EditorClassIdentifier: 
+  ID: TheFinalTest
+  dialogLines:
+  - ID: TheFinalTest-0
+    foldOut: 1
+    EnglishText: Hi
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 1
+  - ID: TheFinalTest-1
+    foldOut: 1
+    EnglishText: . . .
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 0
+  - ID: TheFinalTest-2
+    foldOut: 1
+    EnglishText: HI!
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 1
+  - ID: TheFinalTest-3
+    foldOut: 1
+    EnglishText: . . . Hello.
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 0
+  - ID: TheFinalTest-4
+    foldOut: 1
+    EnglishText: Sup?
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 1
+  - ID: TheFinalTest-5
+    foldOut: 1
+    EnglishText: '?'
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 0
+  - ID: TheFinalTest-6
+    foldOut: 1
+    EnglishText: Jeez, man. You speak English? Where are you from?
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 1
+  - ID: TheFinalTest-7
+    foldOut: 1
+    EnglishText: Uhm.. From here.
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 0
+  - ID: TheFinalTest-8
+    foldOut: 1
+    EnglishText: Lol. Are you one of those trying to force RP in here? I don't get
+      you people.
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 1
+  - ID: TheFinalTest-9
+    foldOut: 1
+    EnglishText: . . . Okay.
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 0
+  - ID: TheFinalTest-10
+    foldOut: 1
+    EnglishText: I like you, though. I like that you are just standing here pretending
+      to be a shopkeeper...
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 1
+  - ID: TheFinalTest-11
+    foldOut: 1
+    EnglishText: I AM a Shopkeeper.
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 0
+  - ID: TheFinalTest-12
+    foldOut: 1
+    EnglishText: 'Hahaha wth be reasonable dude pls. '
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 1
+  - ID: TheFinalTest-13
+    foldOut: 1
+    EnglishText: '. . . '
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 0
+  - ID: TheFinalTest-14
+    foldOut: 1
+    EnglishText: '. . . '
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 1
+  - ID: TheFinalTest-15
+    foldOut: 1
+    EnglishText: Okay. Soooo.... What is your favorite color?
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 1
+  - ID: TheFinalTest-16
+    foldOut: 1
+    EnglishText: ' Wha..No one ever asked me that. Actually, no one ever asked anything
+      about me.'
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 0
+  - ID: TheFinalTest-17
+    foldOut: 1
+    EnglishText: Just tell me what is your favorite color.
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 1
+  - ID: TheFinalTest-18
+    foldOut: 1
+    EnglishText: Purple, I think.
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 0
+  - ID: TheFinalTest-19
+    foldOut: 1
+    EnglishText: Cute. Why?
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 1
+  - ID: TheFinalTest-20
+    foldOut: 1
+    EnglishText: It's the color of the Mana Beer. When I look at it, it gives me
+      hope.
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 0
+  - ID: TheFinalTest-21
+    foldOut: 1
+    EnglishText: 'Hah, awesome. Well.. I''d have you know I''m the Community Manager,
+      working undercover. '
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 1
+  - ID: TheFinalTest-22
+    foldOut: 1
+    EnglishText: 'I''d like to reward you for making this a better place by being
+      such a nice player. '
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 1
+  - ID: TheFinalTest-23
+    foldOut: 1
+    EnglishText: Please, have this item - the developers wanted me to hand it to
+      the most immersed person around.
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 1
+  - ID: TheFinalTest-24
+    foldOut: 1
+    EnglishText: They... didn't really tell me what it's supposed to do, but I think
+      it's a limited-time cosmetic item. It probably changes some of your character
+      attributes and some internal stuff.
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 1
+  - ID: TheFinalTest-25
+    foldOut: 1
+    EnglishText: Thank you for playing <color=#e86b06>Compiled World Online</color>!
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 1
+  ConditionID: 5
+  dialogRarity: 0
+  numberOfCharacters: 1
+  scenarioMusic: {fileID: 11400000, guid: a2a3480b0832184429e820b03fb9ec1c, type: 2}
+  answer: {fileID: 0}

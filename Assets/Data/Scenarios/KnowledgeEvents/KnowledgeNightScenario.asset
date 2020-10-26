@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ede23594ef07f824697f38e89b95f42c, type: 3}
+  m_Name: KnowledgeNightScenario
+  m_EditorClassIdentifier: 
+  ID: KnowledgeNightScenario
+  dialogLines:
+  - ID: KnowledgeNightScenario-0
+    foldOut: 1
+    EnglishText: Man. I really wish they fixed the day/night cycle.
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 1
+  - ID: KnowledgeNightScenario-1
+    foldOut: 1
+    EnglishText: True, it's weird to have the night mobs spawning beside the day
+      mobs
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 2
+  - ID: KnowledgeNightScenario-2
+    foldOut: 1
+    EnglishText: ' Not just that, it takes away from the whole experience..'
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 1
+  - ID: KnowledgeNightScenario-3
+    foldOut: 1
+    EnglishText: ' There''s no XP bonus at night'
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 2
+  - ID: KnowledgeNightScenario-4
+    foldOut: 1
+    EnglishText: I meant, the immersion, man
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 1
+  - ID: KnowledgeNightScenario-5
+    foldOut: 1
+    EnglishText: Ah okay. Well, let's seize the opportunity to farm some rare night
+      mobs!
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 2
+  - ID: KnowledgeNightScenario-6
+    foldOut: 1
+    EnglishText: Oohh good idea. Come on!
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 1
+  - ID: KnowledgeNightScenario-7
+    foldOut: 1
+    EnglishText: (Night seems like an interesting concept..)
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 0
+  ConditionID: 3
+  dialogRarity: 1
+  numberOfCharacters: 2
+  scenarioMusic: {fileID: 11400000, guid: 83d0343e91fc7474ea63bb1c88a0d38f, type: 2}
+  answer: {fileID: 0}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ede23594ef07f824697f38e89b95f42c, type: 3}
+  m_Name: ReportYou_VAR2
+  m_EditorClassIdentifier: 
+  ID: ReportYou_VAR2
+  dialogLines:
+  - ID: ReportYou_VAR2-0
+    foldOut: 1
+    EnglishText: Is this supposed to happen? I'm reporting this.
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 1
+  ConditionID: 0
+  dialogRarity: 0
+  numberOfCharacters: 0
+  scenarioMusic: {fileID: 0}
+  answer: {fileID: 0}

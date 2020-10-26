@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8184672059579043384
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8184672059579043390}
+  - component: {fileID: 8184672059579043391}
+  m_Layer: 0
+  m_Name: MusicPlayer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8184672059579043390
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8184672059579043384}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8184672059579043391
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8184672059579043384}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec7cc774fbc17e845bb16d893915c467, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  GameMixer: {fileID: 24100000, guid: 4f7fad9e09dd1514fb733f0802b7deb7, type: 2}
+  MainMusicMixerGroup: {fileID: 8822332918862572076, guid: e31951b9194f9044184bdd0666edcc0e, type: 2}
+  ScenarioMusicMixerGroup: {fileID: 8599542175995519602, guid: e31951b9194f9044184bdd0666edcc0e, type: 2}
+  TransitionMixerGroup: {fileID: 3795495510193227020, guid: e31951b9194f9044184bdd0666edcc0e, type: 2}
+  MainMusicSnapshot: {fileID: 5041732611146334554, guid: e31951b9194f9044184bdd0666edcc0e, type: 2}
+  FadeReadyMainMusicSnapshot: {fileID: 6974459068953905075, guid: e31951b9194f9044184bdd0666edcc0e, type: 2}
+  ScenarioMusicSnapshot: {fileID: -6975283316477349338, guid: e31951b9194f9044184bdd0666edcc0e, type: 2}
+  FadeReadyScenarioMusicSnapshot: {fileID: 1782419341878581682, guid: e31951b9194f9044184bdd0666edcc0e, type: 2}
+  MutedMusicSnapshot: {fileID: 24500006, guid: e31951b9194f9044184bdd0666edcc0e, type: 2}
+  MainMusicSourceVolume: 0.15
+  ScenarioMusicSourceVolume: 0.15
+  TransitionSourceVolume: 0.15
+  MainMusicList: []
+  ScenarioMusicList: []

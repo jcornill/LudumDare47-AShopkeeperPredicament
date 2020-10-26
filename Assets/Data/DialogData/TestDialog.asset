@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ede23594ef07f824697f38e89b95f42c, type: 3}
+  m_Name: TestDialog
+  m_EditorClassIdentifier: 
+  ID: TestDialog
+  dialogLines:
+  - ID: TestDialog-0
+    foldOut: 1
+    EnglishText: Hello player, what can I do for you ?
+    FrenchText: Bonjour joueur, es-ce que je peux vous aider ?
+    PortugueseText: 
+    IDCharacterSpeaking: 0
+  - ID: TestDialog-1
+    foldOut: 1
+    EnglishText: I'm looking for a health potion. Do you have that ?
+    FrenchText: Je recherche une potion de soins. Avez-vous cela ?
+    PortugueseText: 
+    IDCharacterSpeaking: 1
+  ConditionID: 0
+  dialogRarity: 0
+  numberOfCharacters: 1
+  scenarioMusic: {fileID: 11400000, guid: 667548d37bda67b49a7c4c645715c3b6, type: 2}
+  answer: {fileID: 11400000, guid: 91ef7b7c3b8575046980e3ddbbb20956, type: 2}

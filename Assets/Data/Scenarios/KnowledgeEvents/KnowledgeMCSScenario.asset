@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ede23594ef07f824697f38e89b95f42c, type: 3}
+  m_Name: KnowledgeMCSScenario
+  m_EditorClassIdentifier: 
+  ID: KnowledgeMCSScenario
+  dialogLines:
+  - ID: KnowledgeMCSScenario-0
+    foldOut: 1
+    EnglishText: Wow, that was an awesome raid.
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 1
+  - ID: KnowledgeMCSScenario-1
+    foldOut: 1
+    EnglishText: It really was!!!!
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 2
+  - ID: KnowledgeMCSScenario-2
+    foldOut: 1
+    EnglishText: Ye...Except for the lag due to, probably, so many MCS threads watching
+      EVERYTHING.
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 3
+  - ID: KnowledgeMCSScenario-3
+    foldOut: 1
+    EnglishText: What?????
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 2
+  - ID: KnowledgeMCSScenario-4
+    foldOut: 1
+    EnglishText: The Master Control System. They added experimental foreign tech
+      to the game. It's a weird AI that keeps watch on everything. I think it's supposed
+      to keep features that use AI and Machine Learning working or something.
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 3
+  - ID: KnowledgeMCSScenario-5
+    foldOut: 1
+    EnglishText: I have absolutely no idea what you are even on about.
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 1
+  - ID: KnowledgeMCSScenario-6
+    foldOut: 1
+    EnglishText: Jeez, dude.. don't you people ever read the forums? There are even
+      screenshots of a weird eye - after it appears, stuff just lags and AIs behave
+      weirdly. There's also towers that open up with red eyes in them.
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 3
+  - ID: KnowledgeMCSScenario-7
+    foldOut: 1
+    EnglishText: ' nuff geek talk, let''s do another raid!!!'
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 2
+  - ID: KnowledgeMCSScenario-8
+    foldOut: 1
+    EnglishText: (Master Control System..that explains a lot. I need to be careful.)
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 0
+  ConditionID: 4
+  dialogRarity: 2
+  numberOfCharacters: 3
+  scenarioMusic: {fileID: 11400000, guid: 274664393360be2408e8bb5c3869012c, type: 2}
+  answer: {fileID: 0}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ede23594ef07f824697f38e89b95f42c, type: 3}
+  m_Name: FeatherSell_1Start_VAR2
+  m_EditorClassIdentifier: 
+  ID: FeatherSell_1Start_VAR2
+  dialogLines:
+  - ID: FeatherSell_1Start_VAR2-0
+    foldOut: 1
+    EnglishText: buy <color=#813f92>Ancient Feather</color> give fast
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 1
+  ConditionID: 0
+  dialogRarity: 0
+  numberOfCharacters: 1
+  scenarioMusic: {fileID: 0}
+  answer: {fileID: 11400000, guid: d2703a298a955bc439ab75323ef599c6, type: 2}

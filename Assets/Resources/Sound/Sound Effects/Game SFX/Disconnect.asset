@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c22f7af536e09e1409f488aab717fd76, type: 3}
+  m_Name: Disconnect
+  m_EditorClassIdentifier: 
+  soundName: Disconnect
+  clip: {fileID: 8300000, guid: ddc78d17eaa293942b93e78c76e30310, type: 3}
+  volume: 0.3
+  volumeVariation: 0.05
+  pitch: 1
+  pitchVariation: 0.1
+  SoundCategory: 0

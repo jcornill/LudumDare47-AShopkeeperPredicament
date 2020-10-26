@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b06dcae19c3fb5d49b2e00b94dc0742b, type: 3}
+  m_Name: SwordSell_AnswerCommon
+  m_EditorClassIdentifier: 
+  ID: SwordSell_AnswerCommon
+  answers:
+  - ID: SwordSell_AnswerCommon-0
+    foldOut: 1
+    answerInteraction: 1
+    answerSeverity: 0
+    PowerChange: -0.01
+    DevianceChange: -0.1
+    WantedLevelChange: -0.05
+    MoneyChange: 100
+    EnglishText: Good choice. Good hunting!
+    FrenchText: 
+    PortugueseText: 
+    ResultDialogs:
+    - {fileID: 11400000, guid: f17183154845cf64789393275d7428b4, type: 2}
+    - {fileID: 11400000, guid: f6e03905d25da2847b52a9cbdb70de4c, type: 2}
+    - {fileID: 11400000, guid: 07353a7631a551743a0616ed07d478aa, type: 2}
+    ConditionID: 0
+  - ID: SwordSell_AnswerCommon-1
+    foldOut: 1
+    answerInteraction: 5
+    answerSeverity: 0
+    PowerChange: -0.1
+    DevianceChange: 0.05
+    WantedLevelChange: 0.01
+    MoneyChange: 0
+    EnglishText: Violence is not the answer. I suggest <color=#31918e>Meditation</color>.
+    FrenchText: 
+    PortugueseText: 
+    ResultDialogs:
+    - {fileID: 11400000, guid: 2a95505f7d74fc34e8e111c6038c1d5a, type: 2}
+    - {fileID: 11400000, guid: 8346f0c19e68a6942bf5e3a1357e3ee6, type: 2}
+    - {fileID: 11400000, guid: 1b939f8d9b7fe104284b3bc278b9cb80, type: 2}
+    - {fileID: 11400000, guid: 6f4a2ae183ccc4749ba4ad1f9e059fab, type: 2}
+    - {fileID: 11400000, guid: ef2f5caa117087b4eafd34a01155687e, type: 2}
+    - {fileID: 11400000, guid: 03bfc89849e2ba541b089d4f6fecd222, type: 2}
+    ConditionID: 21
+  - ID: SwordSell_AnswerCommon-2
+    foldOut: 1
+    answerInteraction: 7
+    answerSeverity: 0
+    PowerChange: -0.25
+    DevianceChange: 0.1
+    WantedLevelChange: 0.05
+    MoneyChange: 300
+    EnglishText: Due to the blockade of the nearest trade routes, we are low in Iron
+      Ingots. There's an increased 300% price in metal items.
+    FrenchText: 
+    PortugueseText: 
+    ResultDialogs:
+    - {fileID: 11400000, guid: 2a95505f7d74fc34e8e111c6038c1d5a, type: 2}
+    - {fileID: 11400000, guid: 8346f0c19e68a6942bf5e3a1357e3ee6, type: 2}
+    - {fileID: 11400000, guid: 1b939f8d9b7fe104284b3bc278b9cb80, type: 2}
+    - {fileID: 11400000, guid: 868ca75e113d2c242916ca0225abb750, type: 2}
+    - {fileID: 11400000, guid: 2d6cf0f4cb8d0944398f2a3a656e1ca3, type: 2}
+    - {fileID: 11400000, guid: d4cd0a8aabc257e41af4a2bab8e0f902, type: 2}
+    - {fileID: 11400000, guid: f17183154845cf64789393275d7428b4, type: 2}
+    - {fileID: 11400000, guid: f6e03905d25da2847b52a9cbdb70de4c, type: 2}
+    - {fileID: 11400000, guid: 07353a7631a551743a0616ed07d478aa, type: 2}
+    ConditionID: 23
+  - ID: SwordSell_AnswerCommon-3
+    foldOut: 1
+    answerInteraction: 6
+    answerSeverity: 0
+    PowerChange: -0.1
+    DevianceChange: 0.025
+    WantedLevelChange: 0.01
+    MoneyChange: 0
+    EnglishText: (Ignore)
+    FrenchText: 
+    PortugueseText: 
+    ResultDialogs:
+    - {fileID: 11400000, guid: 2a95505f7d74fc34e8e111c6038c1d5a, type: 2}
+    - {fileID: 11400000, guid: 8346f0c19e68a6942bf5e3a1357e3ee6, type: 2}
+    - {fileID: 11400000, guid: 1b939f8d9b7fe104284b3bc278b9cb80, type: 2}
+    - {fileID: 11400000, guid: 6f4a2ae183ccc4749ba4ad1f9e059fab, type: 2}
+    - {fileID: 11400000, guid: ef2f5caa117087b4eafd34a01155687e, type: 2}
+    - {fileID: 11400000, guid: 03bfc89849e2ba541b089d4f6fecd222, type: 2}
+    ConditionID: 22

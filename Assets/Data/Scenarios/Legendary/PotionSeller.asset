@@ -1,0 +1,182 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ede23594ef07f824697f38e89b95f42c, type: 3}
+  m_Name: PotionSeller
+  m_EditorClassIdentifier: 
+  ID: PotionSeller
+  dialogLines:
+  - ID: PotionSeller-0
+    foldOut: 1
+    EnglishText: Hello, Potion Seller, I am going into battle and I want your strongest
+      potions.
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 1
+  - ID: PotionSeller-1
+    foldOut: 1
+    EnglishText: Uh.. okay.
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 0
+  - ID: PotionSeller-2
+    foldOut: 1
+    EnglishText: I am going into battle and I want your strongest potions!
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 1
+  - ID: PotionSeller-3
+    foldOut: 1
+    EnglishText: ... My potions are too strong for you, traveler.
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 0
+  - ID: PotionSeller-4
+    foldOut: 1
+    EnglishText: Potion Seller, I tell you I am going into battle, and I want only
+      your strongest potions.
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 1
+  - ID: PotionSeller-5
+    foldOut: 1
+    EnglishText: You can't handle my potions. They're too strong for you.
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 0
+  - ID: PotionSeller-6
+    foldOut: 1
+    EnglishText: Potion Seller, listen to me. I want ONLY your STRONGEST potions.
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 1
+  - ID: PotionSeller-7
+    foldOut: 1
+    EnglishText: My potions would kill you, traveler. You cannot handle my potions.
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 0
+  - ID: PotionSeller-8
+    foldOut: 1
+    EnglishText: Potion Seller, enough of these games. I'm going into battle and
+      I need your strongest potions.
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 1
+  - ID: PotionSeller-9
+    foldOut: 1
+    EnglishText: My strongest potions would kill you, traveler. You can't handle
+      my strongest potions. You'd better go to a seller that sells weaker potions.
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 0
+  - ID: PotionSeller-10
+    foldOut: 1
+    EnglishText: Potion Seller, I'm telling you RIGHT NOW. I'm going into battle
+      and I need only your STRONGEST potions.
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 1
+  - ID: PotionSeller-11
+    foldOut: 1
+    EnglishText: You don't know what you ask, traveler. My strongest potions will
+      kill a dragon, let alone a man. You need a seller that sells weaker potions,
+      because my potions are too strong.
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 0
+  - ID: PotionSeller-12
+    foldOut: 1
+    EnglishText: Potion Seller, I'm telling you I need your strongest potions. I'm
+      going into battle! I'm going to battle and I need your strongest potions!
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 1
+  - ID: PotionSeller-13
+    foldOut: 1
+    EnglishText: You can't handle my strongest potions! No one can! My strongest
+      potions are fit for a beast let alone a man.
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 0
+  - ID: PotionSeller-14
+    foldOut: 1
+    EnglishText: Potion Seller, what do I have to tell you to get your potions? Why
+      won't you trust me with your strongest potions, Potion Seller? I need them
+      if I'm to be successful in the battle!
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 0
+  - ID: PotionSeller-15
+    foldOut: 1
+    EnglishText: I can't give you my strongest potions because my strongest potions
+      are only for the strongest beings and you are of the weakest.
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 0
+  - ID: PotionSeller-16
+    foldOut: 1
+    EnglishText: Well then that's it, Potion Seller. I'll go elsewhere. I'll go elsewhere
+      for my potions.
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 1
+  - ID: PotionSeller-17
+    foldOut: 1
+    EnglishText: That's what you'd better do.
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 0
+  - ID: PotionSeller-18
+    foldOut: 1
+    EnglishText: I'll go elsewhere for my potions and I'll never come back!
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 1
+  - ID: PotionSeller-19
+    foldOut: 1
+    EnglishText: Good. You're not welcome here! My potions are only for the strongest
+      and you're clearly are not of the strongest you're clearly the weakest.
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 0
+  - ID: PotionSeller-20
+    foldOut: 1
+    EnglishText: You've had your say, Potion Seller but I'll have mine. You're a
+      rascal, you're a rascal with no respect for knights. No respect for anything...
+      except your potions!
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 1
+  - ID: PotionSeller-21
+    foldOut: 1
+    EnglishText: "Why respect knights... when my potions can do anything that you
+      can.\uFEFF"
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 0
+  - ID: PotionSeller-22
+    foldOut: 1
+    EnglishText: Nice. I'm out.
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 1
+  - ID: PotionSeller-23
+    foldOut: 1
+    EnglishText: You bet.
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 0
+  ConditionID: 0
+  dialogRarity: 4
+  numberOfCharacters: 1
+  scenarioMusic: {fileID: 11400000, guid: 667548d37bda67b49a7c4c645715c3b6, type: 2}
+  answer: {fileID: 0}

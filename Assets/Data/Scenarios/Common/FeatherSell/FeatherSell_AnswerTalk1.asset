@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ede23594ef07f824697f38e89b95f42c, type: 3}
+  m_Name: FeatherSell_AnswerTalk1
+  m_EditorClassIdentifier: 
+  ID: FeatherSell_AnswerTalk1
+  dialogLines:
+  - ID: FeatherSell_AnswerTalk1-0
+    foldOut: 0
+    EnglishText: One day, the bird flew away.
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 0
+  - ID: FeatherSell_AnswerTalk1-1
+    foldOut: 0
+    EnglishText: When the bird came back.. it brought flowers.
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 0
+  - ID: FeatherSell_AnswerTalk1-2
+    foldOut: 0
+    EnglishText: Those flowers were beautiful.
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 0
+  - ID: FeatherSell_AnswerTalk1-3
+    foldOut: 0
+    EnglishText: .......
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 1
+  ConditionID: 0
+  dialogRarity: 0
+  numberOfCharacters: 1
+  scenarioMusic: {fileID: 0}
+  answer: {fileID: 0}

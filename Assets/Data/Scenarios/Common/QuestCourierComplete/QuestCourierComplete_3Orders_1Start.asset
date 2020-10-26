@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ede23594ef07f824697f38e89b95f42c, type: 3}
+  m_Name: QuestCourierComplete_3Orders_1Start
+  m_EditorClassIdentifier: 
+  ID: QuestCourierComplete_3Orders_1Start
+  dialogLines:
+  - ID: QuestCourierComplete_3Orders_1Start-0
+    foldOut: 1
+    EnglishText: Hi. The Rebellion is with you. Here's the <color=#e86b06>Communion
+      Orders</color>.
+    FrenchText: 
+    PortugueseText: 
+    IDCharacterSpeaking: 1
+  ConditionID: 0
+  dialogRarity: 3
+  numberOfCharacters: 1
+  scenarioMusic: {fileID: 0}
+  answer: {fileID: 11400000, guid: 944b26896da487747aa381f5b8c8cb61, type: 2}

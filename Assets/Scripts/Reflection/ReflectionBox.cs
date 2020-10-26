@@ -31,21 +31,13 @@ public class ReflectionBox : MonoBehaviour
         this.reflectionList = new List<ReflectionData>();
     }
 
-    private void Start()
-    {
-        foreach (ReflectionData data in GameDataHolder.data.reflections)
-        {
-            this.reflectionList.Add(data);
-        }
-    }
-
     private void Update()
     {
         if (Input.GetMouseButtonDown(0))
         {
             if (this.isDisplayingText)
             {
-                this.textMesh.text = this.textToShow;
+                this.textMesh.text = this.textToShow.Replace("\\n", Environment.NewLine);
                 this.stopCoroutine = true;
             }
             else
@@ -103,6 +95,14 @@ public class ReflectionBox : MonoBehaviour
     
     public static void ShowRandomReflection()
     {
+        if (Instance.reflectionList.Count == 0)
+        {
+            foreach (ReflectionData data in GameDataHolder.data.reflections)
+            {
+                Instance.reflectionList.Add(data);
+            }
+        }
+        
         ReflectionData selectedReflection = null;
         int reflectionTry = 100;
         while (selectedReflection == null && reflectionTry > 0)

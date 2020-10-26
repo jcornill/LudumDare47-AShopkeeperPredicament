@@ -40,7 +40,7 @@ public class SimpleDialog : MonoBehaviour
     {
         if (this.IsDisplayingText)
         {
-            this.textMesh.text = this.textToShow;
+            this.textMesh.text = this.textToShow.Replace("\\n", Environment.NewLine);
             this.stopCoroutine = true;
         }
     }

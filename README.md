@@ -5,6 +5,8 @@
 
  Entry link : https://ldjam.com/events/ludum-dare/47/$212705
 
+ Itch.io link (To downlaod the game) : https://compiledgames.itch.io/a-shopkeepers-predicament
+
 ## Game
 
  Did you ever stop to think what the NPCs in an MMO could be feeling like?

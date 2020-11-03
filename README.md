@@ -5,7 +5,7 @@
 
  Entry link : https://ldjam.com/events/ludum-dare/47/$212705
 
- Itch.io link (To downlaod the game) : https://compiledgames.itch.io/a-shopkeepers-predicament
+ Itch.io link (To download the game) : https://compiledgames.itch.io/a-shopkeepers-predicament
 
 ## Game
 

@@ -1,5 +1,5 @@
 # A Shopkeeper Predicament
- This is the source code of our entry to the Ludum dare game jam.
+ This is the source code of our entry to the Ludum dare game jam 47.
 
  Theme : Stuck in a loop
 

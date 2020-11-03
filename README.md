@@ -17,7 +17,7 @@
 
 ## The Team
 
- Kirthos: All the Code and some Game Design
+ Kirthos (Jcornill): All the Code and some Game Design
 
  Gabeux: Writing, Game Design, Audio, Organization
 
